@@ -1,0 +1,83 @@
+basics.txt
+
++ How do you type your name? `[High, Medium, Low]`
+
+**High Level**
+#1 > Type Jade Hartman
+
+**Medium Level**
+#1 > type Jade with capital J
+#2 > Place space after Jade
+#3 > type Hartman with capital H
+
+**Low Level**
+#1 > type capital J by pressing shift + J
+#2 > type a
+#3 > type d
+#4 > type e
+#5 > place a space by pressing the spacebar once
+#6 > type capital H by pressing shift + H
+#7 > type a
+#8 > type r
+#9 > type t
+#10 > type m
+#11 > type a
+#12 > type n
+
+==============================================
++ How do you turn on and unlock your iPhone? `[High, Medium, Low]`
+
+**Low Level**
+#1 > Push the on button on iPhone
+#2 > Press the home button on iPhone
+#3 > Enter security code on iPhone
+
+**Medium Level**
+#1 > Push the on button on iPhone
+#2 > hold button for 1 sec
+#3 > Press the home button on iPhone
+#4 > hold for 1 sec
+#5 > Enter # # # # on iPhone to open main screen
+
+**High Level**
+#1 > Ensure phone is in correct orientation to read text
+#2 > Press small rectangular black button on top right corner of iPhone
+#3 > hold this button for 1 sec
+#4 > release this button
+#5 > Press circular button toward bottom of iPhone
+#6 > hold this button for 1 sec
+#7 > release this button
+#8 > wait for lock screen to appear
+#9 > enter this series of numbers in this order: # # # #
+#10 > wait for lock screen to disappear
+#11 > completed
+
+=================================================
++ How do you make coffee (or a cup of tea)? `[High, Medium, Low]`
+
+**Low Level**
+#1 > Make cup of coffee
+
+**Medium Level**
+#1 > Place coffee in coffee filter
+#2 > Put water in water tank
+#3 > Press start coffee
+
+**High Level**
+#1 > Take four tablespoons of coffee beans out of the Strictly Organic Coffee Bag on the counter
+#2 > Place coffee beans in grinder
+#3 > Grind until beans have the right consistency ie consistency of dirt
+#4 > Place coffee grinds in coffee filter
+#5 > Place coffee filter into the coffee bean container
+#6 > close the coffee bean container on the coffee maker
+#7 > Place 3 cups of water into the resevoir
+#8 > Ensure the pot is in correct placement so coffee does not spill over
+#9 > Press the on button
+#10 > Wait impatiently for 4 minutes
+#11 > Enjoy cup of coffee - Good Morning!
+
+
+
+
+
+
